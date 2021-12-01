@@ -4,10 +4,10 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Sparcyx#0001 on discord or gregoire.pn@gmail.com for contact
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=50ME0N3&count_private=true&show_icons=true?theme=buefy)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sparcyx&count_private=true&show_icons=true?theme=buefy)
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=50ME0N3)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sparcyx)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Im ✨ special ✨
