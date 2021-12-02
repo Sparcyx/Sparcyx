@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gregoire Pean
+- 👋 Hi, I’m @Gregoire Pean[<img align="right" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 - 👀 I’m interested with development and sport
 - 🌱 I’m currently learning Java
 - 📫 How to reach me Sparcyx#0001 on discord or gregoire.pn@gmail.com for contact
