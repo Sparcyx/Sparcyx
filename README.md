@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gregoire Pean [<img background: grey align="right" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />]
 - 👀 I’m interested with development and sport
 - 🌱 I’m currently learning Java
-- 📫 How to reach me Sparcyx#0001 on discord or gregoire.pn@gmail.com for contact
+- 📫 How to reach me sparcyx on discord or gregoire.pn@gmail.com for contact
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sparcyx&count_private=true&show_icons=true?theme=buefy)
 <br />
